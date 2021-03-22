@@ -10,6 +10,7 @@ public class epicFeature1 {
             n = n / 2;
         }
         while(!s.isEmpty()){
+            //Pop items from the stack
             System.out.println(s.pop());
         }
     }
